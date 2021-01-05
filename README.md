@@ -1,70 +1,61 @@
-# Getting Started with Create React App
+# Prowlr
+See the app here https://vixhez.github.io/prowlr-front-end
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Table of contents
+* [Brief](#brief)
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+## Brief
+DevelopMe_ wk, 12 task. 
 
-## Available Scripts
+Think up an idea for an app/website that would be achievable in a week. Choose one idea to pursue.
 
-In the project directory, you can run:
+## General info
+Front end developers: 
+- Harry 
+- Vicky (hosted both fron and back repos)
+Back end developers:
+- Tom
+- Ben
+See back end repo here https://github.com/Harry-Gardiner/prowlr-back-end	
 
-### `npm start`
+As a group we collectively decidided to build a fun app that would test both our front and back end skills. The app is loosely inspired by tinder and aims at providing animals with a chance to find love. Currently the functionaluty of the app is like/dislike animal profiles with a results table, but we had much bigger plans!
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+**Post completion questions:**
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+What was the most enjoyable part?
+- Seeing the app come to life from an idea at the start of the week
+- Team aspect
+- Working on a project of our choosing rather than something already chosen for us
 
-### `npm test`
+What was the least enjoyable part?
+- Git merge conflicts
+- Back end deployment
+- CSS bugs
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+If you had more time, what features would you add?
+- Have the animals able to match 
+- Search by tags
+- Have a create your own profile
+- App refresh would keep you in the same place instead of starting it from the beginning
 
-### `npm run build`
+If you were to start from scratch, what would you do differently?
+- Be able to spend more time on the css root file
+- Responsiveness
+- Made sure that we had all images in the same format and size to keep the profile consistent 
+- Make sure we’re working in specific branches 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Technologies
+Project is created with:
+- React Redux
+- PHP Laravel 
+	
+## Setup
+To run this project, clone to a local repo.
+```
+$ cd /prowlr-font-end
+$ npm install
+$ npm start
+```
+To view app locally open localhost:3000.
