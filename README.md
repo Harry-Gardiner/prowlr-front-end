@@ -44,7 +44,6 @@ If you had more time, what features would you add?
 
 If you were to start from scratch, what would you do differently?
 - Be able to spend more time on the css root file
-- Responsiveness
 - Made sure that we had all images in the same format and size to keep the profile consistent 
 - Make sure we’re working in specific branches 
 
